@@ -1,0 +1,5 @@
+.persistency
+public/uploads/*
+node_modules
+docker-compose.yml
+.idea

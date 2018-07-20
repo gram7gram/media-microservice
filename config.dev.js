@@ -1,0 +1,20 @@
+module.exports = {
+    db: {
+        host: 'media-db',
+        port: 27017,
+        username: 'root',
+        password: '12345',
+        database: 'media'
+    },
+    web: {
+        port: 80
+    },
+    fileSize: 10 * 1024 * 1024,
+    mimeTypes: [
+        'image/jpg',
+        'image/jpeg',
+        'image/png',
+        'image/gif',
+        'image/bmp',
+    ]
+}
