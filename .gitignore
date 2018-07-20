@@ -3,3 +3,5 @@ public/uploads/*
 node_modules
 docker-compose.yml
 .idea
+config.dev.js
+config.prod.js

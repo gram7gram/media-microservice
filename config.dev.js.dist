@@ -3,7 +3,7 @@ module.exports = {
         host: 'media-db',
         port: 27017,
         username: 'root',
-        password: '12345',
+        password: '~',
         database: 'media'
     },
     web: {
